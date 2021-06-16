@@ -1,2 +1,2 @@
-# data-science-project
-Extracting and visualizing stock data 
+# Extracting and visualizing Company Stock/Revenue Data
+
